@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">Graduate of Biomedical Engineering at the University of British Columbia, with a focus on bioinformatics 🧬 and medical image analysis 🩻.<br><br>My work centers around:<br>1. Applying machine learning and data analytics for genomics.<br>2. Developing deep learning-based computer vision algorithms for medical imaging.<br><br>With 2 years of experience in AI research, I'm now passionate about bridging the gap between cutting-edge AI and real-world applications. I'm currently building Walnut (🌰 walnut.cool) — an AI-powered studying assistant and tutor app designed to help students learn smarter.</h3>
+<h4 align="left">Graduate of Biomedical Engineering at the University of British Columbia, with a focus on bioinformatics 🧬 and medical image analysis 🩻.<br><br>My work centers around:<br>1. Applying machine learning and data analytics for genomics.<br>2. Developing deep learning-based computer vision algorithms for medical imaging.<br><br>With 2 years of experience in AI research, I'm now passionate about bridging the gap between cutting-edge AI and real-world applications. I'm currently building Walnut (🌰 walnut.cool) — an AI-powered studying assistant and tutor app designed to help students learn smarter.</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senpaisepehr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senpaisepehr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=senpaisepehr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senpaisepehr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
